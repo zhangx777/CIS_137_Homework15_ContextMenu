@@ -7,8 +7,8 @@ Users can browse a list of 10 famous restaurant chains, interact through gesture
 
 ### Features
 
-Scrollable main menu: Swipe through 10 chain restaurants
-Context menus: Long-press an item to reveal actions
-"Today's Choice": Highlights a selected restaurant with animation
-Menu screen: Displays custom food items for each restaurant
-Review screen: Enter personalized comments using TextEditor
+* Scrollable main menu: Swipe through 10 chain restaurants
+* Context menus: Long-press an item to reveal actions
+* "Today's Choice": Highlights a selected restaurant with animation
+* Menu screen: Displays custom food items for each restaurant
+* Review screen: Enter personalized comments using TextEditor
